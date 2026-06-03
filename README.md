@@ -92,6 +92,13 @@ This work is licensed under the terms of the MIT license.
 
 If you use the work released here for your research, please cite this paper:
 ```
-@article{
+@article{bordin2024linearly,
+  title={Linearly Transformed Color Guide for Low-Bitrate Diffusion-Based Image Compression},
+  author={Bordin, Tom and Maugey, Thomas},
+  journal={IEEE Transactions on Image Processing},
+  volume={34},
+  pages={468--482},
+  year={2024},
+  publisher={IEEE}
 }
 ```
